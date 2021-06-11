@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nicoletacalin/accenture/precache-manifest.314ed2783afb76cbdfd626b185dc8ce1.js"
+  "/nicoletacalin/accenture/precache-manifest.b6dbea36266f24366d53229432c69f57.js"
 );
 
 workbox.clientsClaim();
